@@ -1,5 +1,3 @@
-package U6T2;
-
 public class Person {
     private String name;
     private int age;
